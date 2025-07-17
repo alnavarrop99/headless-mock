@@ -1,0 +1,2 @@
+pnpm run lint && pnpm test
+# pnpm run format:check
